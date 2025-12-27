@@ -11,7 +11,7 @@ const personalInfo = {
   phone: "+91 7812992893",
   linkedin: "https://www.linkedin.com/in/snigdha-khare07/",
   instagram: "https://www.instagram.com/_sniggysideup_?igsh=dW1nc3F4bGVyNHcy&utm_source=qr",
-  resumeLink: "https://drive.google.com/file/d/1NL6-fxSZyTVP7bWuRHGl2AU9UzuNfY_A/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1aii3_mML8CpTqbCyePSMVct5Ow3d8xzt/view?usp=sharing",
   profileImage: `${process.env.PUBLIC_URL}/profile-photo.jpg`,
   bio: "I'm an AI Product Manager with 4+ years of experience building and scaling LLM-powered platforms from conception to launch. Currently at Coinbase, I own the end-to-end product lifecycle for AI solutions that improve operational efficiency and user experience.",
   location: "Bengaluru, India"
